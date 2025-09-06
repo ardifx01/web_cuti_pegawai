@@ -31,10 +31,10 @@ Proyek ini adalah Sistem Manajemen Sumber Daya Manusia (SDM) berbasis web yang d
 
 ## ♻️Installation
 ```bash
-  git clone https://github.com/4lifbima/web_pegawai.git
+  git clone https://github.com/4lifbima/web_cuti_pegawai.git
 ```
 ```bash
-  cd web_pegawai
+  cd web_cuti_pegawai
   composer install
 ```
 ```bash
@@ -46,13 +46,6 @@ Proyek ini adalah Sistem Manajemen Sumber Daya Manusia (SDM) berbasis web yang d
 ```bash
   php artisan serve
 ```
-
-## 👥 Contributor
-<img src="https://avatars.githubusercontent.com/u/152723454?s=48&v=4" width="40" height="40" style="border-radius: 50%" /> 
-<img src="https://avatars.githubusercontent.com/u/122168324?s=48&v=4" width="40" height="40" style="border-radius: 50%" /> 
-
-<hr>
-Participating developers
 
 ## 📜 License
 
