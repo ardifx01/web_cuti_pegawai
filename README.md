@@ -31,7 +31,7 @@ Proyek ini adalah Sistem Manajemen Sumber Daya Manusia (SDM) berbasis web yang d
 
 ## ♻️Installation
 ```bash
-  git clone https://github.com/4lifbima/web_cuti_pegawai.git
+  git clone https://github.com/ardifx01/web_cuti_pegawai.git
 ```
 ```bash
   cd web_cuti_pegawai
